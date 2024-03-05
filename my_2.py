@@ -1,3 +1,3 @@
 """Test work."""
 
-print(22)
+print('hello my_2.py')

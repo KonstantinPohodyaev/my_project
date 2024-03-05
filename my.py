@@ -1,3 +1,3 @@
 """Test work."""
 
-print(11)
+print('hello my.py!')
